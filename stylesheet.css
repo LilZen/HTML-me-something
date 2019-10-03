@@ -1,17 +1,24 @@
+body{
+    background-color: fuchsia;
+}
+
 header {
-    color: orange;
+    color: black;
     font-size: 50px;
     font-family: fantasy;
+    text-align: center;
 }
 
 section {
-    background-color: black
-
+    background-color: black;
+    margin: 2px;
+    padding: 100px;
 }
 
 p {
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Times New Roman', Times, serif;
     color: orange;
+    font-size: 25px;
 }
 
 footer {
